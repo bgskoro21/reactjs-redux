@@ -1,32 +1,32 @@
 {
   "users": [
     {
-      "no": "1",
+      "id": "1",
       "nama": "Bagaskara",
       "kelas": "9 A"
     },
     {
-      "no": "2",
+      "id": "2",
       "nama": "Putri Linda",
       "kelas": "X A"
     },
     {
-      "no": "3",
+      "id": "3",
       "nama": "Siapa Kamu",
       "kelas": "XI A"
     },
     {
-      "no": "4",
+      "id": "4",
       "nama": "Bagaskoro",
       "kelas": "XI A"
     },
     {
-      "no": "5",
+      "id": "5",
       "nama": "Putra Bagas",
       "kelas": "XI A"
     },
     {
-      "no": "6",
+      "id": "6",
       "nama": "Khalid",
       "kelas": "XI A"
     }
